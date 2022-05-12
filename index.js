@@ -7,3 +7,5 @@ function  sumTwonumber(a , b){
     return a+b;
 }
 alert(sumTwonumber());
+
+alert("hello function git");
