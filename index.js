@@ -8,6 +8,3 @@ function  sumTwonumber(a , b){
 }
 alert(sumTwonumber());
 
-alert("hello function git");
-
-console.log("ssh update value");
